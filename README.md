@@ -3,6 +3,7 @@
 SupeRR Selector Season 2, Round 1 submission: Rajasthan Royals recruitment analytics for the IPL 2027 auction.
 
 **Live dashboard:** https://ketc8up.github.io/rrplan/
+
 **Full report (PDF):** [SupeRR_Selector_S2_Pressure_Report.pdf](SupeRR_Selector_S2_Pressure_Report.pdf)
 
 ## What is inside
